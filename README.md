@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hey, I'm Alex (@alexweb570)
 
-<!--
-**alexweb570/alexweb570** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend engineer based in Seoul. Most of my time goes into designing distributed services, tuning PostgreSQL queries, and keeping latency low.
 
-Here are some ideas to get you started:
+#### What I'm up to
+- Core backend services at Tech Labs
+- Optimizing caching layers and queue workers with Redis and Go
+- Messing with distributed tracing setups
+- Slowly learning Rust on weekends
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tech I touch daily
+- **Languages:** Go, Python, SQL
+- **Frameworks:** FastAPI, Gin
+- **Databases & Cache:** PostgreSQL, Redis
+- **Infrastructure:** Docker, Linux, GitHub Actions
+
+#### Find me
+- Email: alexweb570@proton.me
+- LinkedIn: linkedin.com/in/alexweb570
